@@ -1,0 +1,117 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Martian+Mono:wght@100;400;800&family=Oswald:wght@200;400;700&family=Yanone+Kaffeesatz:wght@200;400;700&display=swap');
+
+
+.color{
+  border: 2px solid gray;
+  box-sizing: border-box;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+h1{
+    margin-left: 100px;
+}
+
+h2{
+    margin-left: 20px;
+}
+
+.color-box{
+  width: 350px;
+  height: 100px;
+  border: 1px solid black;
+  text-align: center;
+  margin: 20px; 
+  padding: auto;
+  display: inline-block;
+}
+
+#loyal{
+    background: #FF9A42;
+    color: #563416;
+}
+
+#brilliant-yellow{
+    background: #FDD808;
+    color: #473d09;
+}
+
+#indian-green{
+    background: #138808;
+    color: #c1e0bd;
+}
+
+#jam{
+    background: #551841;
+    color: #ba87a9;
+}
+
+#campfire{
+    background: #C98A76;
+    color: #39231d;
+}
+
+#mykonos-blue{
+    background: #025880;
+    color: #a3ccdf;
+}
+
+.fonts{
+  border: 2px solid gray;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  box-sizing: content-box;
+
+}
+
+.font-box{
+   display: inline-block;
+   margin-left: 20px;
+   margin-right: 30px;
+}
+
+.font-head{
+    font-size: large;
+    text-decoration: underline;
+}
+
+#oswald{
+    font-family: 'Oswald', sans-serif;
+}
+
+#mono{
+    font-family: 'Martian Mono', monospace;
+}
+
+#yanone{
+    
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.text{
+    border: 2px solid gray;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  box-sizing: content-box;
+}
+
+#text-head{
+    font-weight: bold;
+    font-size: 40px;
+    margin-left: 20px;
+}
